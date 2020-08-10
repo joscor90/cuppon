@@ -1,0 +1,62 @@
+/*Reset y fuente*/
+body {
+    margin: 0;
+    font-family: "Roboto", sans-serif;
+}
+
+/*Dimensiones del logo de la barra de navegación*/
+.navbar-logo {
+    height: 25px;
+    width: 86px;
+}
+
+/*Clase de color de fondo y fuente para la barra y el formulario*/
+.success-bg {
+   background-color: #28a745;
+   color: #fff;
+}
+
+/*Dimensiones logo Footer*/
+.footer-logo {
+    height: 24px;
+    width: 82px;
+}
+
+/*Color y peso de los párrafos en los cupones*/
+.card-text {
+    color:#707070;
+    font-weight: 300;
+}
+
+/*Redondear botón*/
+.button {
+    border-radius: 4px;
+}
+
+/*Márgenes del formulario*/
+form {
+    margin: 10px 10%;
+}
+
+/*Peso de la fuente del precio con descuento*/
+.bonus-span {
+    font-weight: 300;
+}
+
+/*Color de los títulos de los cupones*/
+.card-title {
+    color: #212529;
+    font-weight: 300;
+}
+
+/*Título Form*/
+h2 {
+    color: #F8F9FA;
+    font-weight: 500;
+}
+
+/*Color y peso fuente footer*/
+footer {
+    color: #707070;
+    font-weight: 300;
+}
